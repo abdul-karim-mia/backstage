@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-backend
 
+## 4.0.3-next.3
+
+### Patch Changes
+
+- cd5fa5f: Improved the performance of entity queries on PostgreSQL when a filter matches a field against a long list of values, such as the ownership claims used by conditional permission policies for catalog entity reads.
+- Updated dependencies
+  - @backstage/integration@2.2.0-next.1
+
 ## 4.0.3-next.2
 
 ### Patch Changes

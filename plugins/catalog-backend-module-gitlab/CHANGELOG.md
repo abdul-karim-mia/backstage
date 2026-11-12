@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-backend-module-gitlab
 
+## 0.8.10-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/integration@2.2.0-next.1
+  - @backstage/backend-defaults@0.19.0-next.3
+
 ## 0.8.10-next.2
 
 ### Patch Changes
